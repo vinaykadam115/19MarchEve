@@ -15,7 +15,7 @@ public class myclass2 {
 		driver.get("https://vctcpune.com/selenium/practice.html");
 		
 		//This Program Modified By Kunal
-		
+		//new update
 		System.out.println("hi");
 		Reporter.log("hii");
 		Reporter.log("hiii", true);
